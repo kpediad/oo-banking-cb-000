@@ -5,5 +5,5 @@ class Transfer
   def initialize
     self.status = "pending"
   end
-  
+
 end
